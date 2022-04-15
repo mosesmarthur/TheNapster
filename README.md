@@ -13,7 +13,6 @@
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />&nbsp;
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/visualstudiocode.svg" />&nbsp;
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" />&nbsp;
-<img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" />&nbsp;
 
   
 </p>
