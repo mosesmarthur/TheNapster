@@ -14,7 +14,6 @@
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/visualstudiocode.svg" />&nbsp;
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" />&nbsp;
 <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/latex.svg" />&nbsp;
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e8187adf-9f74-4ffc-a44e-10976742471f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
 
   
 </p>
