@@ -20,3 +20,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/moses-arthur/">LinkedIn</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
+
+<p align="left">
+Lead and operationalize the AI strategies by initiating ML use cases that deliver value for business stakeholders across various verticals of business. I have a strong background in data science, cloud computing, and lean six sigma, which enables me to translate business needs into tangible data science products and solutions, and to drive innovation and efficiency in data- driven processes and decisions.
+
+Previously worked in consultancies & pharma company where I was architecting business needs into GxP compliant Cloud products/solutions and driving the development of cloud solutions to derive value for various business stakeholders. I develop Product Architecture for features/strategies aligned with Product Owner and DevOps team modelling to ensure clear understanding for the business needs.
+</p>
