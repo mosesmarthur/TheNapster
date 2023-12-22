@@ -17,7 +17,5 @@
   
 </p>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/moses-arthur/">LinkedIn</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-</p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="moses-arthur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/moses-arthur?trk=profile-badge">M J Arthur</a></div>
+              
